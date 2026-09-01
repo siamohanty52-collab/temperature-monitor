@@ -1,3 +1,11 @@
+<img width="1920" height="1080" alt="Screenshot 2026-09-01 155731" src="https://github.com/user-attachments/assets/ec1fa97b-bbd3-4131-915e-055dd498ba62" />
+
+
+
+
+
+
+
 # Capstone: Smart Temperature Monitor
 
 A simulated temperature-sensor kernel driver + a C++ userspace app that
